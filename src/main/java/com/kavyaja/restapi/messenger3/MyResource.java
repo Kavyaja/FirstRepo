@@ -12,6 +12,9 @@ import javax.ws.rs.core.MediaType;
     //hi this is the change 
 //this is local change
     //this is remote change
+//change to stash
+//change to stash 2
+
 public class MyResource {
 
     /**
