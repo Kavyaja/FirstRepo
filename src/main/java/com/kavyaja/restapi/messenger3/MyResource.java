@@ -11,6 +11,7 @@ import javax.ws.rs.core.MediaType;
 @Path("myresource")
     //hi this is the change 
 //this is local change
+    //this is remote change
 public class MyResource {
 
     /**
