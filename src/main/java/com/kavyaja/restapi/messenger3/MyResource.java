@@ -26,3 +26,5 @@ public class MyResource {
         return "Got it!";
     }
 }
+
+// useful change from remote
